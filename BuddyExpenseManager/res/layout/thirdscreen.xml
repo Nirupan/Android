@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView 
+        android:text="@string/total" 
+     
+        android:layout_height="wrap_content" 
+        android:layout_width="match_parent" 
+        
+        android:id="@+id/txt_totaltext">
+        
+    </TextView>
+    
+    <TextView 
+        android:text="" 
+     
+        android:layout_height="wrap_content" 
+        android:layout_width="match_parent" 
+        
+        android:id="@+id/txt_totalExpense">
+    
+	</TextView>
+     
+        <TextView 
+        android:text="@string/avg" 
+     
+        android:layout_height="wrap_content" 
+        android:layout_width="match_parent" 
+        
+        android:id="@+id/txt_avgtext">
+        
+    </TextView>
+    
+    <TextView 
+        android:text="" 
+     
+        android:layout_height="wrap_content" 
+        android:layout_width="match_parent" 
+        
+        android:id="@+id/txt_avgExpense">
+    
+	</TextView>
+	
+    	<TextView 
+        android:text="@string/buddyinfo" 
+     
+        android:layout_height="wrap_content" 
+        android:layout_width="match_parent" 
+        
+        android:id="@+id/txt_buddiestext">
+        
+    </TextView>
+	
+        <TextView 
+        android:text="" 
+     
+        android:layout_height="wrap_content" 
+        android:layout_width="match_parent" 
+        
+        android:id="@+id/txt_buddy1text">
+        
+    </TextView>
+    
+    <TextView 
+        android:text="" 
+     
+        android:layout_height="wrap_content" 
+        android:layout_width="match_parent" 
+        
+        android:id="@+id/txt_buddy1Expense">
+    
+	</TextView>
+
+    
+    
+	
+        <TextView 
+        android:text="" 
+     
+        android:layout_height="wrap_content" 
+        android:layout_width="match_parent" 
+        
+        android:id="@+id/txt_buddy2text">
+        
+    </TextView>
+    
+    <TextView 
+        android:text="" 
+     
+        android:layout_height="wrap_content" 
+        android:layout_width="match_parent" 
+        
+        android:id="@+id/txt_buddy2Expense">
+    
+	</TextView>
+	
+    
+    
+	
+        <TextView 
+        android:text="" 
+     
+        android:layout_height="wrap_content" 
+        android:layout_width="match_parent" 
+        
+        android:id="@+id/txt_buddy3text">
+        
+    </TextView>
+    
+    <TextView 
+        android:text="" 
+     
+        android:layout_height="wrap_content" 
+        android:layout_width="match_parent" 
+        
+        android:id="@+id/txt_buddy3Expense">
+    
+	</TextView>
+    
+   
+    
+	
+        <TextView 
+        android:text="" 
+     
+        android:layout_height="wrap_content" 
+        android:layout_width="match_parent" 
+        
+        android:id="@+id/txt_buddy4text">
+        
+    </TextView>
+    
+    <TextView 
+        android:text="" 
+     
+        android:layout_height="wrap_content" 
+        android:layout_width="match_parent" 
+        
+        android:id="@+id/txt_buddy4Expense">
+    
+	</TextView>
+    
+    
+    
+        
+
+    
+    
+    
+</LinearLayout>

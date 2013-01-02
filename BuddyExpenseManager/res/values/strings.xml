@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">BuddyExpenseManagerVI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+     <string name="next">next</string>
+	<string name="calc">Calculate</string>
+	<string name="heading">Buddy Expense Sharing Manager</string>
+	<string name="total">The total is </string>
+	<string name="avg">The average is </string>
+	<string name="buddyinfo">Buddies Needs to pay if it is +ve or will recieve if it is -ve</string>
+</resources>
