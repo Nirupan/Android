@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MultiplicationTableActivity!</string>
+    <string name="app_name">MultiplicationTable</string>
+    <string name="e">Enter The Number</string>
+    <string name="t">The Multiplication Table</string>
+	<string name="b">Next</string>
+	<string name="x">X</string>
+	<string name="eq">=</string>
+</resources>
