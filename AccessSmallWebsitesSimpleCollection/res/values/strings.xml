@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">AccessSmallWebsitesSimpleCollection</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="google">Google</string>
+    <string name="fb">Facebook</string>
+    <string name="gmail">GMail</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="twitter">Twitter</string>
+    <string name="wikipedia">Wikipedia</string>
+    
+    
+    
+    
+
+</resources>
