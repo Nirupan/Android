@@ -1,0 +1,1 @@
+A simple Listview App Similar to the Contacts of an mobile phone. 
